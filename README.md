@@ -1,3 +1,5 @@
+![preview](https://github.com/asaggse/welcome-to-tasklist-pro/blob/main/Welcome%20to%20TaskList%20Pro.png)
+
 This component creates a sign-up form that matches the layout and style of the image. It uses Tailwind CSS classes for styling. Key features include:
 
 - Centered layout with flex
